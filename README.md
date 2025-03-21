@@ -16,11 +16,8 @@ Detector and tracker. Optimized for microswimmers and measurements of changes of
 * [Viewer](#viewer)
   + [Parameters](#parameters-3)
   + [Example](#example-3)
+
     
-## License
-
-Software distributed under license GPL-V3. See full text in (https://bitbucket.org/realhubot/simservers/src/master/LICENSE).
-
 
 ## Installation
 
