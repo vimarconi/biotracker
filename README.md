@@ -1,7 +1,7 @@
 # :microscope:BioTracker
 
 Detector and tracker. Optimized for microswimmers and measurements of changes of directions along trajectories. 
-* [License](#license)
+
 * [Installation](#installation)
 * [Detector](#detector)
   + [Parameters](#parameters)
@@ -16,7 +16,7 @@ Detector and tracker. Optimized for microswimmers and measurements of changes of
 * [Viewer](#viewer)
   + [Parameters](#parameters-3)
   + [Example](#example-3)
-
+* [License](#license)
     
 
 ## Installation
