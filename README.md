@@ -1,6 +1,6 @@
 # :microscope:BioTracker
 
-Particle detection and tracking.
+Detector and tracker. Optimized for microswimmers and measurements of changes of directions along trajectories. 
 * [License](#license)
 * [Installation](#installation)
 * [Detector](#detector)
@@ -392,3 +392,10 @@ $ python3 viewer.py VIDEO.2.max-t-gap_3_dist-thr_5.0_dist-ratio-thr_0.8.json
 ```
 
 When run using the analyzer's output, the visualizer will show tracking results.
+
+
+## License
+
+Software distributed under license GPL-V3. See full text in (https://bitbucket.org/realhubot/simservers/src/master/LICENSE).
+
+
