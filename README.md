@@ -16,6 +16,9 @@ Detector and tracker. Optimized for microswimmers and measurements of changes of
 * [Viewer](#viewer)
   + [Parameters](#parameters-3)
   + [Example](#example-3)
+ 
+* [Credits](#credits)
+* [Acknowledgement](#acknowledgement)
 * [License](#license)
     
 
@@ -390,6 +393,23 @@ $ python3 viewer.py VIDEO.2.max-t-gap_3_dist-thr_5.0_dist-ratio-thr_0.8.json
 
 When run using the analyzer's output, the visualizer will show tracking results.
 
+
+## Credits
+
+Biotracker first version: 2017. 
+
+For users, please reference as:
+
+Biotracker: a microswimmer tracker with automatic quantification of change of directions.
+Credits: M. G. Reyes, J. A. Sanchez, and V. I. Marconi. 
+
+1) Sánchez, J. A., Pury, P. A. & Marconi, V. I. Un algoritmo modular para el seguimiento de particulas en video microscopia. Mecanica Computacional XXXIV, 3443–3450 (2016). Available on https://ri.conicet.gov.ar/handle/11336/59997
+
+2) Reyes, M. G. Particle Tracking on Videos of Microscopy. Master’s thesis, Universidad Nacional de Córdoba, Argentina. Advisor: Sanchez, J. A. Available on https://rdu.unc.edu.ar/handle/11086/ 6013 (2017).
+   
+## Acknowledgement
+
+Multiple users (students, professors and researchers) helped to improve it until its opening in 2021: Jorge Sánchez, Martín G. Reyes, Verónica I. Marconi, Pedro A. Pury, Sofía Montagna, Moniellen Pires Monteiro,  Matías Bettera Marcat, Juan Pablo Carrillo-Mora (guide for installation in Window, Mac, Linux). 
 
 ## License
 
