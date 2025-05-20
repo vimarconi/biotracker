@@ -398,7 +398,7 @@ When run using the analyzer's output, the visualizer will show tracking results.
 
 Biotracker first version: 2017. 
 
-For users, please reference as:
+For users, please reference together with the following articles, as
 
 Biotracker: a microswimmer tracker with automatic quantification of change of directions.
 Credits: M. G. Reyes, J. A. Sanchez, and V. I. Marconi. 
@@ -409,7 +409,27 @@ Credits: M. G. Reyes, J. A. Sanchez, and V. I. Marconi.
    
 ## Acknowledgement
 
-Multiple users (students, professors and researchers) helped to improve it until its opening in 2021: Jorge Sánchez, Martín G. Reyes, Verónica I. Marconi, Pedro A. Pury, Sofía Montagna, Moniellen Pires Monteiro,  Matías Bettera Marcat, Juan Pablo Carrillo-Mora (guide for installation in Window, Mac, Linux). 
+Multiple users (students, professors and researchers) helped to improve it until its opening in 2021: Jorge Sánchez, Martín G. Reyes, Verónica I. Marconi, Pedro A. Pury, Sofía Montagna, Moniellen Pires Monteiro,  Matías Bettera Marcat, Juan Pablo Carrillo-Mora (guide for installation in Window, Mac, Linux).
+
+More info and services: veronica.marconi@unc.edu.ar
+
+Papers with applications in different bio-systems:
+
+*Hitting the wall: Human sperm velocity recovery under ultra-confined conditions- Scilight-
+Matías A. Bettera Marcat; María N. Gallea; Gastón L. Miño; Marisa A. Cubilla; Adolfo J. Banchio; Laura C. Giojalas; Verónica I. Marconi; Héctor A. Guidobaldi
+Biomicrofluidics 14, 024108 (2020) https://doi.org/10.1063/1.5143194
+
++Damage and recovery of flagella in soil bacteria exposed to shear within long microchannels - Editor’s Pick - 
+Juan Pablo Carrillo-Mora, Moniellen Pires Monteiro, Aníbal R. Lodeiro, V. I. Marconi, María Luisa Cordero
+Physics of Fluids 37, 012027 (2025)
+https://doi.org/10.1063/5.0249990
+
+-Soil-mimicking microfluidic devices reveal restricted flagellar motility of Bradyrhizobium diazoefficiens under microconfinement. 
+Monteiro, M.P., Carrillo-Mora, J.P., Gutiérrez, Sofía Montagna,  Aníbal R. Lodeiro,  María Luisa Cordero, V. I. Marconi.
+Commun Biol 8, 662 (2025).
+https://doi.org/10.1038/s42003-025-07811-8
+
+
 
 ## License
 
